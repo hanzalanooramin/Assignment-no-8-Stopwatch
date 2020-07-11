@@ -1,0 +1,33 @@
+.container{
+    height: 300px;
+    width: 100%;
+}
+
+#display{
+    width: 100%;
+    font-size: 72px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 100%;
+}
+
+.buttons{
+    text-align: center;
+}
+
+
+*{
+    background-image: linear-gradient(#2d882d,#2e4272);
+    border: solid rgb(0, 183, 255);
+    align-items: center;
+}
+.heading{
+    font-size: 55px;
+}
+.start{
+    font-size: 25px;
+}
+.stop{
+    font-size: 25px;
+}
